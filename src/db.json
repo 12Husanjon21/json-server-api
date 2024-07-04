@@ -1,9 +1,19 @@
 {
-    "posts": [
-        {  
-            "id": "1",
-            "title": "HUsanjon",
-            "views": "1000"
-        }
+    "items": [
+      {
+        "id": "1720094100111",
+        "item": "milk",
+        "checked": true
+      },
+      {
+        "id": "1720094103817",
+        "item": "carrot",
+        "checked": false
+      },
+      {
+        "id": "1720094109569",
+        "item": "onion",
+        "checked": false
+      }
     ]
-}
+  }
